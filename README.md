@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+link: https://carolverna.github.io/HTML-and-CSS-solution/
+
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
 ## Welcome! 👋
